@@ -16,6 +16,12 @@ It is my hometown, it is famous for Biryani and **Golkonda** it is also one of t
 4. visit the near by places and have nice biryani. 
 
 
+## Unordered list
 
-    
-
+* Car to travel
+* Food items
+    * maggi
+    * popcorn
+    * pepsi
+* chess board, valley ball to play
+* Nice camera for pictures
