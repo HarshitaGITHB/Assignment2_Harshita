@@ -38,3 +38,9 @@ Below iteams are the items which i have tried in Maryville and Kansas. I liked f
 | Instant noodles     | Dollar general |   $1.99   |
 | Egg roles           |  Thai corner   |   $4.00   |
 | chicken fry biryani |   godavari     |  $32.00   |
+
+-------------
+
+> "Be yourself; everyone else is already taken" - *Oscar Wilde*
+
+> “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - *Albert Einstein*
