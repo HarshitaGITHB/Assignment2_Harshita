@@ -53,7 +53,7 @@ Below iteams are the items which i have tried in Maryville and Kansas. I liked f
 
 > In computer science, a suffix array is a sorted array of all suffixes of a string. It is a data structure used in, among others, full text indices, data compression algorithms, and the field of bibliometrics. ... The suffix array for a subset of all suffixes of a string is called sparse suffix array.
 
-FormoreInfo >https://en.wikipedia.org/wiki/Suffix_array>
+FormoreInfo <https://en.wikipedia.org/wiki/Suffix_array>
 
 ```
  vector<int> pn(n), cn(n);
