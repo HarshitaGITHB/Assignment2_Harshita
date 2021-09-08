@@ -40,6 +40,7 @@ Below iteams are the items which i have tried in Maryville and Kansas. I liked f
 | chicken fry biryani |   godavari     |  $32.00   |
 
 -------------
+# Qutoes
 
 > "Be yourself; everyone else is already taken" - *Oscar Wilde*
 
