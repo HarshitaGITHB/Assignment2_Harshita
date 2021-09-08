@@ -26,3 +26,15 @@ It is my hometown, it is famous for Biryani and **Golkonda** it is also one of t
 * Nice camera for pictures
 
 [Aboutme](https://github.com/HarshitaGITHB/Assignment2_Harshita/blob/main/AboutMe.md)
+
+--------
+
+# FOOD Recommendations
+
+Below iteams are the items which i have tried in Maryville and Kansas. I liked few of them and few i didnot. Few of the items are cost worthy and few not. 
+
+|  food               |   location     |   price   |
+|---------------------|--------------- |-----------|
+| Instant noodles     | Dollar general |   $1.99   |
+| Egg roles           |  Thai corner   |   $4.00   |
+| chicken fry biryani |   godavari     |  $32.00   |
