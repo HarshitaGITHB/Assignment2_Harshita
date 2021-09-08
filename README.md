@@ -24,3 +24,5 @@ It is my hometown, it is famous for Biryani and **Golkonda** it is also one of t
     * pepsi
 * chess board, valley ball to play
 * Nice camera for pictures
+
+[Aboutme](https://github.com/HarshitaGITHB/Assignment2_Harshita/blob/main/AboutMe.md)
